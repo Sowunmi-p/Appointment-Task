@@ -47,4 +47,4 @@ The original data consist of 110,328 rows and 14 columns, namely; PatientId, App
 
 #### Conclusion
 
-According to my analysis it shows that female didn't show up more for their appointment and we have more people presnt than absent for their appoinment, People didn't really show up for their appoint in may.
+According to my analysis it shows that female didn't show up more for their appointment and we have more people present than absent for their appoinment, People didn't really show up for their appoint in may.
